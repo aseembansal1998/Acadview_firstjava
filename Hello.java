@@ -6,5 +6,5 @@ public class Hello {
 		System.out.print("Hello world");
 	}
 
-}
+} hello world
  
